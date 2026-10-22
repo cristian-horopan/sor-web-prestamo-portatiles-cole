@@ -8,7 +8,7 @@
 (Dos o tres líneas con tus palabras: qué había que conseguir.)
 ## ⌨Comandos y pasos importantes
 - `comando` — para qué sirve.
-## Qué he hecho
+## Qué he hecho.
 (Los pasos que has seguido. No copies el enunciado: cuenta lo que hiciste tú.)
 ## Qué me ha fallado y cómo lo he resuelto
 (El mensaje de error LITERAL y qué hiciste. Si no falló nada, escribe "nada"
